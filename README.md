@@ -47,8 +47,8 @@ Utilizes asynchronous threading to play distinct, real-world ADAS audio cues wit
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/autonomous-vehicle-trajectory.git
-cd autonomous-vehicle-trajectory
+git clone <your-repo-url>
+cd major_project
 ```
 
 ### 2. Install Standard Dependencies
